@@ -16,3 +16,11 @@ this repository contains all the challenge we built as thnb team for the ideh ct
 |LolSec 	|Cryptography 	|kw4ntum| 50 	|
 |Fundatur |	Cryptography |kw4ntum |	75 |
 |World War 2 |	Cryptography |j4ck|	200 |
+|Voldemort |	DFIR |c3p0d4y|	50 	 |	
+|Voldemort 2 |	DFIR |c3p0d4y|	50 	| 	
+|Voldemort 3 |	DFIR 	|c3p0d4y|50 	|
+|	Voldemort 4 |	DFIR |c3p0d4y|	100|
+|Antediluvian |	DFIR |c3p0d4y|	50 	 	|
+|Antediluvian 2 |	DFIR |c3p0d4y|	100 |	 	
+|Antediluvian 3| 	DFIR |c3p0d4y|	150 	| 	
+|Antediluvian 4 |	DFIR |c3p0d4y|	200 	| 	
