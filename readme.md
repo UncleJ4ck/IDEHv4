@@ -1,6 +1,7 @@
 # International days of ethical hacking CTF
 
-this repository contains all the challenge we built as thnb team for the ideh ctf 
+this repository contains all the challenge of the IDEH CTF 
+
 | Challenge  | Category | Author | value |
 |:----------|:----------|:--------|:---------|
 | Sneaky    | Web       | j4kom | 200   |
@@ -24,3 +25,13 @@ this repository contains all the challenge we built as thnb team for the ideh ct
 |Antediluvian 2 |	DFIR |c3p0d4y|	100 |	 	
 |Antediluvian 3| 	DFIR |c3p0d4y|	150 	| 	
 |Antediluvian 4 |	DFIR |c3p0d4y|	200 	| 	
+|Maze Runner |	Miscellaneous |Upperknoot|	200 	| 	
+|Not SM v 0.0 	|PWN|0xpwny| 	100 	| 	
+|	Payload Delivery LTD 	|PWN 	|0xpwny|100 	 |	
+ |	Garbage |	PWN |0xpwny	|150 	 	|
+ |	Dante's Nine Circles of Inferno |	Reverse Engineering |j4ck|	200 |	 	
+|	Risster |	Reverse Engineering |	j4ck |100|
+|	Locked Portal |	Reverse Engineering 	|kw4ntum|75| 	 	
+|Beep 	|Steganography|kw4ntum| 	150 	| 	
+|	Moon |	Steganography |kw4ntum|	100 	 |	
+|	Visus et Sonus |	Steganography 	|kw4ntum|50|
