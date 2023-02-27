@@ -2,6 +2,8 @@
 
 this repository contains all the challenge of the IDEH CTF 
 
+Writeups will be share here : c3p0d4y.github.io
+
 | Challenge  | Category | Author | value |
 |:----------|:----------|:--------|:---------|
 | Sneaky    | Web       | j4kom | 200   |
