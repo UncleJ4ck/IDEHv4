@@ -10,3 +10,15 @@ Please be aware that running the malware on your main operating system is not re
 
 **Author**: C3p0d4y
 
+## Voldemort 1 :
+ * What is the name of file written on the disk by the malware : 
+
+## Voldemort 2 : 
+ * For this part you need to find the function that the malware used to download another malicious file with the Parameters it takes .
+ 
+## Voldemort 3 : 
+  * For this part you will need find the url used to Download the malicious file
+
+
+## Voldemort 4 : 
+ * After you analysed the malware what is the final command he used to download and execute the malicious file .
