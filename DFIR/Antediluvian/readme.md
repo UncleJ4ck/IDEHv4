@@ -8,3 +8,19 @@
 **Password** : thnb
 
 **Author**: c3p0d4y
+
+## Antediluvian 1 : 
+ * Analyse the file and find an ip addresses that used in this attack ? 
+ 
+ ## antediluvian 2 :
+ * You have made it to the second part of the challenge, well done.
+  assuming that you have an idea about the doc works and the type of the attack used .
+  the flag for this challenge will be the name of the attack using _ in between words for example IDEH{brute_force}
+  
+ ## antediluvian 3 :
+  * find the path that the malicous code is using 
+    the Flag should be for example : IDEH{C:\Users\Inpt\Desktop\somerandomdirectory\"
+
+
+ ## antediluvian 4 :
+ * The last part of the challenge is to find the hidden flag :)
